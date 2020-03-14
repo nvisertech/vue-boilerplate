@@ -1,6 +1,6 @@
 module.exports = {
   prefix: '',
-  important: false,
+  important: false, 
   separator: ':',
   theme: {
     screens: {
