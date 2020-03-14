@@ -31,10 +31,10 @@
       </div>
     </div>
   </div>
-</template>
+</template> 
 
 
-<script>
+<script> 
 // @ is an alias to /src
 import SocialFooter from "@/components/SocialFooter.vue";
 
